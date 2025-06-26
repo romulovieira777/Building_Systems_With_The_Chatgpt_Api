@@ -10,5 +10,6 @@
 - [Chaining Prompts](https://github.com/romulovieira777/Building_Systems_With_The_Chatgpt_Api/tree/main/05_Chaining_Prompts)
 - [Check Outputs](https://github.com/romulovieira777/Building_Systems_With_The_Chatgpt_Api/tree/main/06_Check_Outputs)
 - [Evaluation](https://github.com/romulovieira777/Building_Systems_With_The_Chatgpt_Api/tree/main/07_Evaluation)
+- [Evaluation Part I]()
 
 Link to course: [DeepLearning](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
