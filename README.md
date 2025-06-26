@@ -1,6 +1,6 @@
 # Building Systems with the ChatGPT API 🤖🎲⚙️🤯👨🏻‍💻
 ## Course Building Systems with the ChatGPT API
-### #### 💻 Topics covered during the course were: 🚀
+### 💻 Topics covered during the course were: 🚀
 
 - Introduction
 - [Language Models, the Chat Format and Tokens]()
