@@ -5,6 +5,7 @@
 - Introduction
 - [Language Models, the Chat Format and Tokens](https://github.com/romulovieira777/Building_Systems_With_The_Chatgpt_Api/tree/main/01_Language_Models_The_Chat_Format_And_Tokens)
 - [Classification](https://github.com/romulovieira777/Building_Systems_With_The_Chatgpt_Api/tree/main/02_Classification)
-- [Moderation]()
+- [Moderation](https://github.com/romulovieira777/Building_Systems_With_The_Chatgpt_Api/tree/main/03_Moderation)
+- [Chain of Thought Reasoning]()
 
 Link to course: [DeepLearning](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
