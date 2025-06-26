@@ -8,5 +8,6 @@
 - [Moderation](https://github.com/romulovieira777/Building_Systems_With_The_Chatgpt_Api/tree/main/03_Moderation)
 - [Chain of Thought Reasoning](https://github.com/romulovieira777/Building_Systems_With_The_Chatgpt_Api/tree/main/04_Chain_Of_Thought_Reasoning)
 - [Chaining Prompts](https://github.com/romulovieira777/Building_Systems_With_The_Chatgpt_Api/tree/main/05_Chaining_Prompts)
+- [Check Outputs]()
 
 Link to course: [DeepLearning](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
